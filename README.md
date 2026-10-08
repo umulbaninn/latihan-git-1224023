@@ -1,2 +1,2 @@
-"Nama : [Nama Lengkap Kamu]" 
+"Nama : Umul Banin" 
 "NIM  : 1224023" 
