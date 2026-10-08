@@ -1,2 +1,2 @@
-"Nama : Umul Banin" 
-"NIM  : 1224023" 
+Nama : Umul Banin
+NIM  : 1224023
